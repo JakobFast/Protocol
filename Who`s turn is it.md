@@ -1,11 +1,11 @@
 Please tell the person who is in charge on the next training day to prepare to write the protocol. 
 
 
-| Name | First Protocoll | 
+| Name | First Protocoll |  Second Protocoll |
 | ------------- | ------------- |
-| Alexander  |  30.11.2021 |
-| Andre  |  01.12.2021 |
-| Andreas  | 02.12.2021  |
+| Alexander  |  30.11.2021 | 22.12.2021 |
+| Andre  |  01.12.2021 | 23.12.2021 |
+| Andreas  | 02.12.2021  | 24.12.2021 |
 | Carolin | 03.12.2021  |
 | Dexter |  06.12.2021 |
 | Evans | 07.12.2021  |
