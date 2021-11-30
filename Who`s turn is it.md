@@ -18,4 +18,4 @@ Please tell the person who is in charge on the next training day to prepare to w
 | Philipp  | 16.12.2021  | 14.01.2022 |
 | Tobias  | 27.12.2021  | 17.01.2022 |
 | Victor  | 20.12.2021  | 18.01.2022 |
-| Zusanna  | 21.12.2021  | 19.01.2022 |
+| Zuzanna  | 21.12.2021  | 19.01.2022 |
