@@ -1,7 +1,7 @@
 Please tell the person who is in charge on the next training day to prepare to write the protocol. 
 
 
-| Name | First Protocoll |  Second Protocoll | Third Protocoll | Fourth Protocoll |
+| Name | First Protocol |  Second Protocol | Third Protocol | Fourth Protocol |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Alexander  |  30.11.2021 | 22.12.2021 | 20.01.2022 | 11.02.2022 |
 | Andre  |  01.12.2021 | 23.12.2021 | 21.01.2022 | 14.02.2022 |
